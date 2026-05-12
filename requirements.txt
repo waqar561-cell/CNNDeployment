@@ -1,6 +1,6 @@
 pandas
 scikit-learn
 streamlit
-tensorflow==1.26.4
+tensorflow==2.20.0
 numpy
 Pillow
